@@ -1,3 +1,3 @@
 # demo-first
 My first github repos.
-Auuthor sudhanshu rai
+Author sudhanshu rai
